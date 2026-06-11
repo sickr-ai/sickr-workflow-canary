@@ -5,6 +5,17 @@ Sandbox repo for orchestrator canary scenarios (`prime canary run`).
 Branches and PRs here are **ephemeral test fixtures** created and
 destroyed by the canary harness. Do not author work here directly.
 
+## Validation
+
+Run the deterministic canary validation with:
+
+```sh
+npm test
+```
+
+The tests verify the simulation marker contract and the latest
+`CANARY_LOG.md` entry shape used by SICKR workflow simulation.
+
 If you see stale branches matching `canary/scenario-*`, run
 `prime canary cleanup --scenario <name>` from labudi-orchestrator,
 or delete them manually — they are residue from a canary run that
