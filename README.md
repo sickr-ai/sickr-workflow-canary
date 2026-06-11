@@ -30,3 +30,10 @@ for the broader context.
 - run_id: `run-f9d1bf47-67c9-45fe-bf2b-f203fabd0bfa`
 - agent: `codex-001`
 - updated_at: `2026-06-11T02:53:52Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-1ea93b0b-562c-4b72-a464-2aa6c03a622e`
+- run_id: `run-e88bd203-c7ca-467b-a07f-66cbf9bf4cf6`
+- agent: `codex-001`
+- updated_at: `2026-06-11T03:13:55Z`
