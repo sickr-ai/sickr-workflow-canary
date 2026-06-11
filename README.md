@@ -44,3 +44,10 @@ for the broader context.
 - run_id: `run-6f3cdfaf-3dd9-486b-9a0a-c1668a8214d6`
 - agent: `codex-001`
 - updated_at: `2026-06-11T03:19:56Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-c279f3cc-9f69-4e8b-a4d3-7f3e3ea5892d`
+- run_id: `sim-7147a9fdf0c8`
+- agent: `codex-001`
+- updated_at: `2026-06-11T06:58:12Z`
