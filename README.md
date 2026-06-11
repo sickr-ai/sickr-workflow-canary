@@ -12,3 +12,10 @@ crashed mid-scenario.
 
 See `labudi-documents/design/2026-05-23-executor-contract-architecture.md`
 for the broader context.
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-deac8515-d8bd-4aa2-87fd-9c7b1e9cd2e2`
+- run_id: `run-f9d1bf47-67c9-45fe-bf2b-f203fabd0bfa`
+- agent: `codex-001`
+- updated_at: `2026-06-11T02:53:52Z`
