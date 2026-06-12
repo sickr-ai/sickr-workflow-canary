@@ -86,3 +86,10 @@ for the broader context.
 - run_id: `run-50d83404c37c`
 - agent: `claude-001`
 - updated_at: `2026-06-12T20:20:44Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-87d82f7d-35ee-4185-a81e-056dd2b8fd7a`
+- run_id: `run-e2519267d859`
+- agent: `codex-001`
+- updated_at: `2026-06-12T20:20:37Z`
