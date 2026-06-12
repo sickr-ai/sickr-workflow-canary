@@ -58,3 +58,38 @@ for the broader context.
 - run_id: `run-1840ce9279c1`
 - agent: `codex-001`
 - updated_at: `2026-06-11T21:42:51Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-2c0a1bfe-2095-4140-a999-e88007ff61eb`
+- run_id: `run-7523574e4223`
+- agent: `codex-001`
+- updated_at: `2026-06-11T22:50:50Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-4ac7018f-2929-4144-9b77-f8d0095ececb`
+- run_id: `run-76aadd7a66f4`
+- agent: `codex-001`
+- updated_at: `2026-06-12T19:43:30Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-e6ad4739-a445-473b-b24a-e5f444682dab`
+- run_id: `run-4064ff26582f`
+- agent: `codex-001`
+- updated_at: `2026-06-12T20:15:57Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-12f8573f-8def-4716-8dde-497efc17f2e1`
+- run_id: `run-39e0e998484d`
+- agent: `codex-001`
+- updated_at: `2026-06-12T20:18:36Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-87d82f7d-35ee-4185-a81e-056dd2b8fd7a`
+- run_id: `run-e2519267d859`
+- agent: `codex-001`
+- updated_at: `2026-06-12T20:20:37Z`
