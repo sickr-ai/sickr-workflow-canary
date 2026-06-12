@@ -65,3 +65,10 @@ for the broader context.
 - run_id: `run-76aadd7a66f4`
 - agent: `codex-001`
 - updated_at: `2026-06-12T19:43:30Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-ec984cce-ab16-4355-ab0e-eaae87db6949`
+- run_id: `run-33f78121860b`
+- agent: `claude-001`
+- updated_at: `2026-06-12T20:15:57Z`
