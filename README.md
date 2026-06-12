@@ -75,6 +75,13 @@ for the broader context.
 
 ## SICKR simulation marker
 
+- ticket: `ticket_sim-ec984cce-ab16-4355-ab0e-eaae87db6949`
+- run_id: `run-33f78121860b`
+- agent: `claude-001`
+- updated_at: `2026-06-12T20:15:57Z`
+
+## SICKR simulation marker
+
 - ticket: `ticket_sim-e6ad4739-a445-473b-b24a-e5f444682dab`
 - run_id: `run-4064ff26582f`
 - agent: `codex-001`
