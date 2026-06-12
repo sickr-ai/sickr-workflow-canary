@@ -82,6 +82,13 @@ for the broader context.
 
 ## SICKR simulation marker
 
+- ticket: `ticket_sim-a2f0ed66-0a48-43e3-8795-0ef09d4fe454`
+- run_id: `run-50d83404c37c`
+- agent: `claude-001`
+- updated_at: `2026-06-12T20:20:44Z`
+
+## SICKR simulation marker
+
 - ticket: `ticket_sim-87d82f7d-35ee-4185-a81e-056dd2b8fd7a`
 - run_id: `run-e2519267d859`
 - agent: `codex-001`
