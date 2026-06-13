@@ -135,3 +135,10 @@ for the broader context.
 - run_id: `run-2d767d155d89`
 - agent: `codex-001`
 - updated_at: `2026-06-13T00:05:03Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-8134b794-42fb-4388-ba15-d6d02d71d9d7`
+- run_id: `run-31cde48f310d`
+- agent: `claude-001`
+- updated_at: `2026-06-13T00:33:25Z`
