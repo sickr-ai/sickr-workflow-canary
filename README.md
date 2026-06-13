@@ -128,3 +128,10 @@ for the broader context.
 - run_id: `run-44c4bd43b234`
 - agent: `claude-001`
 - updated_at: `2026-06-12T22:28:38Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-4a92a7bc-4880-4efb-813a-55d940bc7576`
+- run_id: `run-2d767d155d89`
+- agent: `codex-001`
+- updated_at: `2026-06-13T00:05:03Z`
