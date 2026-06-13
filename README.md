@@ -198,3 +198,10 @@ for the broader context.
 - run_id: `run-afdb48b69364`
 - agent: `codex-001`
 - updated_at: `2026-06-13T02:38:26Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-8406bfe4-cc95-4543-968c-e37e63739f01`
+- run_id: `run-d7a9e7af0fdc`
+- agent: `claude-001`
+- updated_at: `2026-06-13T17:18:46Z`
