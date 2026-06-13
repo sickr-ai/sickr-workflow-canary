@@ -149,3 +149,10 @@ for the broader context.
 - run_id: `run-b5a267e7be4b`
 - agent: `codex-001`
 - updated_at: `2026-06-13T00:48:51Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-c432a467-8fd1-4849-a0a8-0c8247ee1ac9`
+- run_id: `run-5ea0190e8f74`
+- agent: `codex-001`
+- updated_at: `2026-06-13T00:58:29Z`
