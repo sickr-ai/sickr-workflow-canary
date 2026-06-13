@@ -205,3 +205,10 @@ for the broader context.
 - run_id: `run-d7a9e7af0fdc`
 - agent: `claude-001`
 - updated_at: `2026-06-13T17:18:46Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-04b62e24-5efa-4a3b-a32d-10279c7cb58e`
+- run_id: `run-9aac4ef231f2`
+- agent: `codex-001`
+- updated_at: `2026-06-13T17:41:02Z`
