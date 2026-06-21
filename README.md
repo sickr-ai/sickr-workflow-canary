@@ -240,3 +240,10 @@ for the broader context.
 - run_id: `run-ee263aa92fb4`
 - agent: `codex-001`
 - updated_at: `2026-06-21T03:21:45Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-305baf4d-a848-470e-a51d-f19873c4a2ab`
+- run_id: `run-d9b5151bdae5`
+- agent: `claude-001`
+- updated_at: `2026-06-21T03:52:20Z`
