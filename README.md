@@ -233,3 +233,10 @@ for the broader context.
 - run_id: `run-c65b9cd9b960`
 - agent: `claude-001`
 - updated_at: `2026-06-21T03:16:09Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-97e036e4-ef83-403d-b533-f9ab713787f5`
+- run_id: `run-ee263aa92fb4`
+- agent: `codex-001`
+- updated_at: `2026-06-21T03:21:45Z`
