@@ -261,3 +261,10 @@ for the broader context.
 - run_id: `run-13faa91d9f91`
 - agent: `claude-001`
 - updated_at: `2026-06-25T03:02:30Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-da2abae5-d0e8-4a57-9f02-ff2b06243d8c`
+- run_id: `run-2851c4aa106e`
+- agent: `codex-001`
+- updated_at: `2026-06-25T17:01:53Z`
