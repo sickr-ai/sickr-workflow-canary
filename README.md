@@ -285,3 +285,10 @@ for the broader context.
 - run_id: `run-fbf1eafd74b6`
 - agent: `codex-001`
 - updated_at: `2026-06-30T21:48:16Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-a56c5739-303b-47b8-9eee-71640a288781`
+- run_id: `run-ad9598127560`
+- agent: `codex-001`
+- updated_at: `2026-06-30T22:45:23Z`
