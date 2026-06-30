@@ -265,6 +265,9 @@ for the broader context.
 ## SICKR simulation marker
 
 - ticket: `ticket_sim-d53f2a36-b1e6-4334-97b3-d43082f7ddab`
+- run_id: `run-6567fcd90a11`
+- agent: `claude-001`
+- updated_at: `2026-06-30T03:59:05Z`
 - run_id: `run-1b587269eb1a`
 - agent: `claude-001`
 - updated_at: `2026-06-30T03:59:50Z`
