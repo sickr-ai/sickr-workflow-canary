@@ -23,3 +23,11 @@
 - agent: `codex-001`
 - updated_at: `2026-07-01T05:29:41Z`
 - log_line: `2026-07-01T05:29:41Z | validate-pass | run_id=run-df42f1d8a60a`
+
+## SICKR simulation plan marker
+
+- ticket: `ticket_sim-ae34b916-b149-4df7-b027-f615e57e994d`
+- run_id: `run-35a5f621614f`
+- agent: `codex-001`
+- updated_at: `2026-07-01T06:00:13Z`
+- log_line: `2026-07-01T06:00:13Z | validate-pass | run_id=run-35a5f621614f`
