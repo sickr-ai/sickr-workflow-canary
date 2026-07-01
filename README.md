@@ -306,3 +306,10 @@ for the broader context.
 - run_id: `run-d43ac297bd5c`
 - agent: `codex-001`
 - updated_at: `2026-07-01T05:30:29Z`
+
+## SICKR simulation marker
+
+- ticket: `ticket_sim-ae34b916-b149-4df7-b027-f615e57e994d`
+- run_id: `run-778092da686a`
+- agent: `codex-001`
+- updated_at: `2026-07-01T06:01:52Z`
